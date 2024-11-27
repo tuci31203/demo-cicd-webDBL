@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lamdb/ci-cd:staging
+          tags: tuci31203/ci-cd:staging
 
 
   pull-and-up:
